@@ -67,6 +67,6 @@ with open('ownthink_v2.csv', 'r', encoding='utf8') as fin:
 
 * 百度网盘（链接: https://pan.baidu.com/s/1LZjs9Dsta0yD9NH-1y0sAw 提取码: 3hpp ）
 
-注：解压密码是ownthink的首页地址：https://www.ownthink.com/
+注：解压密码是：https://www.ownthink.com/
 
 
