@@ -69,4 +69,4 @@ with open('ownthink_v2.csv', 'r', encoding='utf8') as fin:
 
 注：解压密码是：https://www.ownthink.com/
 
-
+* 阿里云下载 https://nebula-graph.oss-accelerate.aliyuncs.com/ownthink/kg_v2.tar.gz
