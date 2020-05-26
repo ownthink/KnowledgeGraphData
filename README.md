@@ -68,5 +68,3 @@ with open('ownthink_v2.csv', 'r', encoding='utf8') as fin:
 * 百度网盘（链接: https://pan.baidu.com/s/1LZjs9Dsta0yD9NH-1y0sAw 提取码: 3hpp ）
 
 注：解压密码是：https://www.ownthink.com/
-
-* 阿里云下载 https://nebula-graph.oss-accelerate.aliyuncs.com/ownthink/kg_v2.tar.gz
