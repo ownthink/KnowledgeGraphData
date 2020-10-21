@@ -67,11 +67,12 @@ with open('ownthink_v2.csv', 'r', encoding='utf8') as fin:
 
 * 百度网盘（链接: https://pan.baidu.com/s/1LZjs9Dsta0yD9NH-1y0sAw 提取码: 3hpp ）注：解压密码是：https://www.ownthink.com/
 
+```shell
 加入qq群：
 人工智能qq群1：90780053(满)
 人工智能qq群2：956936481（满）
 人工智能qq群3：1160292084
 知识图谱qq群1：55152968（满）
 知识图谱qq群2：740104333
-
+```
 
